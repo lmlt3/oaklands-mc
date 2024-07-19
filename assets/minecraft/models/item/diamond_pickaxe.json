@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
+		"particle": "item/icons/reinforced_pickaxe",
 		"icon": "item/icons/reinforced_pickaxe",
-		"model": "item/models/reinforced_pickaxe",
-		"particle": "item/icons/reinforced_pickaxe"
+		"model": "item/models/reinforced_pickaxe"
 	},
 	"elements": [
 		{
