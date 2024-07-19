@@ -630,7 +630,7 @@
 		},
 		"fixed": {
 			"rotation": [0, 0, 45],
-			"translation": [4.5, -4.5, 0.5]
+			"translation": [4.5, -4.5, 0.497]
 		}
 	},
 	"groups": [
