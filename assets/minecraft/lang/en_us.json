@@ -1,15 +1,15 @@
 {
-    "item.minecraft.diamond_axe": "Reinforced Axe",
-    "item.minecraft.diamond_pickaxe": "Reinforced Pickaxe",
-    "item.minecraft.golden_axe": "Living Axe",
-    "item.minecraft.golden_pickaxe": "Uncertain Pickaxe",
-    "item.minecraft.iron_axe": "Refined Axe",
-    "item.minecraft.iron_pickaxe": "Refined Pickaxe",
+    "item.minecraft.diamond_axe": "Living Axe",
+    "item.minecraft.diamond_pickaxe": "Uncertain Pickaxe",
+    "item.minecraft.golden_axe": "Rusty Axe",
+    "item.minecraft.golden_pickaxe": "Rusty Pickaxe",
+    "item.minecraft.iron_axe": "Reinforced Axe",
+    "item.minecraft.iron_pickaxe": "Reinforced Pickaxe",
     "item.minecraft.netherite_axe": "Emberbane",
     "item.minecraft.netherite_pickaxe": "Gleam Harvester",
     "item.minecraft.netherite_sword": "Petalfall",
-    "item.minecraft.stone_axe": "Steel Axe",
-    "item.minecraft.stone_pickaxe": "Steel Pickaxe",
-    "item.minecraft.wooden_axe": "Rusty Axe",
-    "item.minecraft.wooden_pickaxe": "Rusty Pickaxe"
+    "item.minecraft.stone_axe": "Refined Axe",
+    "item.minecraft.stone_pickaxe": "Refined Pickaxe",
+    "item.minecraft.wooden_axe": "Steel Axe",
+    "item.minecraft.wooden_pickaxe": "Steel Pickaxe"
 }
